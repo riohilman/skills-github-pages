@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog!
 ---
-##Skills
+## Skills
 - Figma
 - Adobe Illustrator
 - Photoshop
